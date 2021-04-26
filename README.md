@@ -1,3 +1,4 @@
 Final-Project
 
 Introduction:
+The quality of life of the individuals has been unfavorably influenced by the crimes in the networks. The quest for bliss and fulfillment is contaminated by the dread and vulnerability of things to come among individuals. Numerous legislative organizations have been working enthusiastically to give the suspicion that all is well and good and to reestablish the confidence locally and the framework. Alongside the help and collaboration from the general population, these offices require a ton of monetary and specialized assets to get proactive and rout the crooks. The assortment of past criminal records and their investigation can give specialized favorable position to the legislative offices. Finding the examples in violations, making forecasts on conceivable future wrongdoings dependent on those examples can be done by utilizing different machine learning.
