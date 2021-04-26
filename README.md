@@ -40,10 +40,26 @@ The data set contains 22 columns and 6.99m rows. In the data cleaning, I have re
 Hypotheses for the study:
 
 ![Picture2](https://user-images.githubusercontent.com/77995394/116159677-482b7b80-a6b6-11eb-8d60-099735e792f7.png)
+
 The above bar graph illustrates the different types of crimes with count listed in Chicago from the year 2001 to 2020. The x-axis indicates the primary types of the crimes whereas the y-axis indicates the count of each crime. Theft is the crime, which is recorded with the highest count of 110000, second is the battery with the count of 9lakh and then the criminal damage is the next most frequently committed crime with the count of approximately 60000. The least committed crime in Chicago is obscenity, concealed carry license violation, public indecency, non-criminal, other narcotic violation, human trafficking, ritualism.
 
 ![image](https://user-images.githubusercontent.com/77995394/116159787-79a44700-a6b6-11eb-8950-a5406d05b6e4.png)
+
 The above bar graph represents the count of crimes committed over years. The x-axis represents the count of the crime, the y-axis indicates years. In the year 2001 crime rate is excessive with the count of 34000 whereas in the 2002 the count of the crimes is slightly reduced to 32000. The crime counts are gradually decreasing year by year. From the year 2014 to 2019 the count of crimes are stable with around 18000. The count dropped down to 11000 in the year 2020.
+
+Data Analytics:
+
+![image](https://user-images.githubusercontent.com/77995394/116160023-e3245580-a6b6-11eb-8a41-a04406837998.png)
+
+The line graph illustrates the count of crimes committed over seasons. The x-axis represents the seasons and the y-axis represents the count of crimes. In the fall season the crimes are 125000, in the spring season it raised little high to 127000 whereas in the summer season it drastically raised to 140000 and then the crime is very low in the winter season.
+
+![image](https://user-images.githubusercontent.com/77995394/116161548-8b3b1e00-a6b9-11eb-945e-5fbdf3addc76.png)
+![image](https://user-images.githubusercontent.com/77995394/116161561-91c99580-a6b9-11eb-88bb-a4bfdaf23cc0.png)
+
+From the table seen above tells the criminals arrested and not arrested in the years 2001 to 2020 along with the percentage value.  In the year 2001, 23800 people were not arrested and then 9871 people are arrested. Correspondingly, in 2002 to 2020 the left-over people are more same as the year 2001. The crimes are decreasing as the year increases.  In the year 2020, the 9426 people were left not arrested whereas 1778 people are arrested.
+
+
+
 
 
 
