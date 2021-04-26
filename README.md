@@ -47,6 +47,10 @@ The above bar graph illustrates the different types of crimes with count listed 
 
 The above bar graph represents the count of crimes committed over years. The x-axis represents the count of the crime, the y-axis indicates years. In the year 2001 crime rate is excessive with the count of 34000 whereas in the 2002 the count of the crimes is slightly reduced to 32000. The crime counts are gradually decreasing year by year. From the year 2014 to 2019 the count of crimes are stable with around 18000. The count dropped down to 11000 in the year 2020.
 
+![image](https://user-images.githubusercontent.com/77995394/116162389-49ab7280-a6bb-11eb-89ae-8b4b8b3bee0f.png)
+
+The Bar graph illustrates the count of crimes committed in each district. The The x-axis represents the Chicago district code, the y-axis represents committed crimes count. The crimes are high in the district 22 with the count of 320000 crimes and there are least crimes in the district 1 with 90000 crimes.
+
 Data Analytics:
 
 ![image](https://user-images.githubusercontent.com/77995394/116160023-e3245580-a6b6-11eb-8a41-a04406837998.png)
@@ -57,6 +61,18 @@ The line graph illustrates the count of crimes committed over seasons. The x-axi
 ![image](https://user-images.githubusercontent.com/77995394/116161561-91c99580-a6b9-11eb-88bb-a4bfdaf23cc0.png)
 
 From the table seen above tells the criminals arrested and not arrested in the years 2001 to 2020 along with the percentage value.  In the year 2001, 23800 people were not arrested and then 9871 people are arrested. Correspondingly, in 2002 to 2020 the left-over people are more same as the year 2001. The crimes are decreasing as the year increases.  In the year 2020, the 9426 people were left not arrested whereas 1778 people are arrested.
+
+![image](https://user-images.githubusercontent.com/77995394/116161998-7743ec00-a6ba-11eb-95b6-2fe6ebf418fb.png)
+
+The line graph represents the successful arrests over the years. The x-axis indicates the years, and the y-axis indicates the count of arrests that are successful. In the year 2005 there are more arrests compared to other years. There are a smaller number of arrests in the year 2020. 
+
+![image](https://user-images.githubusercontent.com/77995394/116163169-df93cd00-a6bc-11eb-9f9b-c3fd36efa3b2.png)
+
+This tells the districts in Chicago with the number of arrests and the crimes. The districts code are considered in the x-axis and the number of arrests and the crimes are considered as the y-axis. More crimes are committed in the district 8.0with 34000 but less criminals are arrested with around 9000.
+In the district 11.0 more number of crimes are committed and more criminals got arrested. In the district 20.0 less crimes are committed and less criminals are arrested. 
+
+
+
 
 
 
