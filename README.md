@@ -16,4 +16,30 @@ The main objectives of my work are:
 2.	Through the various geographical areas namely, locality, area, district the crime frequencies are analyzed.
 3.	To understand the examples of major crimes including arrest over years with execution of strategies to foresee the crimes including capture.
 
-[asdf.docx](https://github.com/Saitrisha/Final-Project/files/6380368/asdf.docx)
+The initial step is getting a decent understanding on data analytics of crime, a comprehension of what factors by and large are acceptable indicators of crime area. We will at that point design the information as we would prefer by cleaning the information, and filling in missing qualities as we see vital, this will prompt element designing and permit us to comprehend and distinguish designs in the dataset. Ultimately, we will utilize algorithms like Decision tree and KNN for anticipating the beats certain crimes will occur. The problem here is exciting and challenging, thus three various objectives are estimated. 
+
+Dataset used: 
+The data set is collected from Kaggle which is continuous update and data source is city of Chicago. It has the rows of 6.99m rows and has 22 columns. The columns are 
+Date- Date nothing but the date of incident happened
+Block- where the crime happened in the address block
+Iucr- Illinois Uniform Crime Reporting
+Description- IUCR code secondary description, Criminal sexual maltreatment, provocation by electronic methods, discovered presume opiates, and so on
+Primary type- IUCR code primary description, sex and various offences.
+Arrest- It shows the arrest is done or not
+Beat- police patrolling 
+Year- The year of crime happened
+Ward, x location, y location, location, updated record
+From the data set there are 20 years,12 months, 4 seasons, 23 districts, 7 types of primary grouped, location, x coordinate, y coordinate , 370 iucr, 34 primary type (includes all types of crimes), 450 description, 2 types of arrest, too many and continuous updated on.
+There are many locations in the dataset with continuous variable, too many crimes per year.
+The underlying dataset contains around 7 million records yet this requires very nearly 20-25 minutes to run for each cycle. So we chose to test information to 500,000 columns additionally this is peer input that we got. Rather than attempting to anticipate the beat, we are presently attempting to foresee whether a culprit will be captured for the episode they submit dependent on the highlights above. 
+We divided the information as 70 % for Training information, 20% for tuning the information and the remainder of the 10% for testing the information. To keep up free and indistinguishably dispersed information split we get truly near a 70/20/10 split. The preparation dataset will have information cases that happen inside the years 2001-2012, the tuning dataset will contain information from 2013-2017, and finally the testing dataset will contain information from 2018-2020.
+
+Exploratory data analysis (EDA):
+The data set contains 22 columns and 6.99m rows. In the data cleaning, I have removed the unwanted rows and columns all the null values are removed. Here I seperated the month, year and then according to the month I have added a new column season. After the data cleaning there are 10 columns and 500000 rows. 
+
+Hypotheses for the study:
+![Picture2](https://user-images.githubusercontent.com/77995394/116159677-482b7b80-a6b6-11eb-8d60-099735e792f7.png)
+
+
+
+
