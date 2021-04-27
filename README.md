@@ -22,7 +22,7 @@ The main objectives of my work are:
 2.	Through the various geographical areas namely, locality, area, district the crime frequencies are analyzed.
 3.	To understand the examples of major crimes including arrest over years with execution of strategies to foresee the crimes including capture.
 
-The initial step is getting a decent understanding on data analytics of crime, a comprehension of what factors by and large are acceptable indicators of crime area. We will at that point design the information as we would prefer by cleaning the information, and filling in missing qualities as we see vital, this will prompt element designing and permit us to comprehend and distinguish designs in the dataset. Ultimately, we will utilize algorithms like Decision tree and KNN for anticipating the beats certain crimes will occur. The problem here is exciting and challenging, thus three various objectives are estimated. 
+The initial step is getting a decent understanding on data analytics of crime, a comprehension of what factors by and large are acceptable indicators of crime area. We will at that point design the information as we would prefer by cleaning the information, and filling in missing qualities as we see vital, this will prompt element designing and permit us to comprehend and distinguish designs in the dataset. Ultimately, we will utilize algorithms like Decision tree and Logistic regression for anticipating the beats certain crimes will occur. The problem here is exciting and challenging, thus three various objectives are estimated. 
 
 Dataset used: 
 
