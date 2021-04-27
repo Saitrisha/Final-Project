@@ -1,5 +1,7 @@
 Final-Project
 
+TITTLE: CRIME PREDICTION IN CHICAGO
+
 Introduction:
 The quality of life of the individuals has been unfavorably influenced by the crimes in the networks. The quest for bliss and fulfillment is contaminated by the dread and vulnerability of things to come among individuals. Numerous legislative organizations have been working enthusiastically to give the suspicion that all is well and good and to reestablish the confidence locally and the framework. Alongside the help and collaboration from the general population, these offices require a ton of monetary and specialized assets to get proactive and rout the crooks. The assortment of past criminal records and their investigation can give specialized favorable position to the legislative offices. Finding the examples in violations, making forecasts on conceivable future wrongdoings dependent on those examples can be done by utilizing different machine learning.
 
@@ -88,6 +90,7 @@ Decision Tree:
 From above we can say that the accuracy is less with 64%. The macro average is 57% , weighted average is 66. I can also say that there are 71495 not arrested criminals in the year 2001 to 2020 whereas 23695 arrested in the same years. 
 
 Conclusion:
+
 I can conclude by telling that, I have attempted to show why there is a tremendous disparity in the capture class circulation, From the data set I have shown some degree indistinguishably appropriated. How the crime changed year to year and based on seasons. Ultimately, With the help of Chicago crime data we have anticipated the numbers of criminals were arrested and the number of criminals were left freely. From the data set the columns are increased by splitting the month, year, time and the season column is added to the data set based on the months. We have considered the decision tree classifier and logistic regression. Finally I would like to say that the accuracy is more high in the decision tree with 64% and the accuracy in the logistic regression is less with 47%. So the decision tree is most preferrable for the crime prediction than the logistic regression.
 
 
