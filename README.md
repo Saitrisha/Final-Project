@@ -102,8 +102,11 @@ I can conclude by telling that, I have attempted to show why there is a tremendo
 Bibliography:
 
 •	(https://www.kaggle.com/chicago/chicago-crime) Dataset
+
 •	https://www.irjet.net/archives/V5/i9/IRJET-V5I9192.pdf
+
 •	https://www.researchgate.net/publication/335854157_Predicting_Crime_Using_Time_and_Location_Data 
+
 •	https://www.wired.com/insights/2013/08/predictive-policing-using-machine-learning-to-detect-patterns-of-crime/
 
 
