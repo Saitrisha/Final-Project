@@ -69,7 +69,31 @@ The line graph represents the successful arrests over the years. The x-axis indi
 ![image](https://user-images.githubusercontent.com/77995394/116163169-df93cd00-a6bc-11eb-9f9b-c3fd36efa3b2.png)
 
 This tells the districts in Chicago with the number of arrests and the crimes. The districts code are considered in the x-axis and the number of arrests and the crimes are considered as the y-axis. More crimes are committed in the district 8.0with 34000 but less criminals are arrested with around 9000.
-In the district 11.0 more number of crimes are committed and more criminals got arrested. In the district 20.0 less crimes are committed and less criminals are arrested. 
+In the district 11.0 more number of crimes are committed and more criminals got arrested. In the district 20.0 less crimes are committed and less criminals are arrested.
+
+Results report:
+
+Logistic regression is nothing but the algorithm classification which helps to analyze the  likelihood of a reliant variable. The reliant variable is a binary variable has the coded data. For this regression we need to collect all the data required, then data should be imported into the python by using the pandas, sklearn, seaborn. Then logistic regression must be created. 
+ 
+Results:
+
+![image](https://user-images.githubusercontent.com/77995394/116164345-37cbce80-a6bf-11eb-99b9-6af380a8be72.png)
+Here I have only considered the arrest for all the years (2001 to 2020). From above we can say that the accuracy is less with 47%. The macro average is 54% , weighted average is 67. I can also say that there are 71495 not arrested criminals in the year 2001 to 2020 whereas 23695 arrested in the same years.
+
+Decision Tree:
+ They are non-parametric managed learning technique utilized for arrangement and relapse. The objective is to make a model that predicts the worth of an objective variable by taking in basic choice principles surmised from the information highlights.
+
+![image](https://user-images.githubusercontent.com/77995394/116167951-02c37a00-a6c7-11eb-877b-c4b4269c2aca.png)
+
+From above we can say that the accuracy is less with 64%. The macro average is 57% , weighted average is 66. I can also say that there are 71495 not arrested criminals in the year 2001 to 2020 whereas 23695 arrested in the same years. 
+
+Conclusion:
+I can conclude by telling that, I have attempted to show why there is a tremendous disparity in the capture class circulation, From the data set I have shown some degree indistinguishably appropriated. How the crime changed year to year and based on seasons. Ultimately, With the help of Chicago crime data we have anticipated the numbers of criminals were arrested and the number of criminals were left freely. From the data set the columns are increased by splitting the month, year, time and the season column is added to the data set based on the months. We have considered the decision tree classifier and logistic regression. Finally I would like to say that the accuracy is more high in the decision tree with 64% and the accuracy in the logistic regression is less with 47%. So the decision tree is most preferrable for the crime prediction than the logistic regression.
+
+
+
+
+
 
 
 
