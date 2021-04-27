@@ -99,6 +99,14 @@ Conclusion:
 
 I can conclude by telling that, I have attempted to show why there is a tremendous disparity in the capture class circulation, From the data set I have shown some degree indistinguishably appropriated. How the crime changed year to year and based on seasons. Ultimately, With the help of Chicago crime data we have anticipated the numbers of criminals were arrested and the number of criminals were left freely. From the data set the columns are increased by splitting the month, year, time and the season column is added to the data set based on the months. We have considered the decision tree classifier and logistic regression. Finally I would like to say that the accuracy is more high in the decision tree with 64% and the accuracy in the logistic regression is less with 47%. So the decision tree is most preferrable for the crime prediction than the logistic regression.
 
+Bibliography:
+
+•	(https://www.kaggle.com/chicago/chicago-crime) Dataset
+•	https://www.irjet.net/archives/V5/i9/IRJET-V5I9192.pdf
+•	https://www.researchgate.net/publication/335854157_Predicting_Crime_Using_Time_and_Location_Data 
+•	https://www.wired.com/insights/2013/08/predictive-policing-using-machine-learning-to-detect-patterns-of-crime/
+
+
 
 
 
